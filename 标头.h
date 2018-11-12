@@ -5,6 +5,8 @@
 #include<stack>
 #include<cstring>
 #include<string>
+#include<ifstream>
+
 using namespace std;
 template<class T>
 struct ThreadNode
