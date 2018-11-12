@@ -6,7 +6,7 @@
 #include<cstring>
 #include<string>
 #include<ifstream>
-
+#include<Sb>
 using namespace std;
 template<class T>
 struct ThreadNode
