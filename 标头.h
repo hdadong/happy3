@@ -3,6 +3,8 @@
 #define Thread
 #include<iostream>
 #include<stack>
+#include<cstring>
+#include<string>
 using namespace std;
 template<class T>
 struct ThreadNode
